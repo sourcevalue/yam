@@ -10,4 +10,4 @@
  
  **local** func > opt/{operator} | Used to work with client.
  
- 
+ **lock** > opt/{root} | Locks a root or the file if no root added.
